@@ -1,0 +1,6 @@
+{
+  "name": "DeskMouse VIO",
+  "description": "Transforms your smartphone into a wireless optical desk mouse using front camera optical flow, IMU sensor fusion, and Bluetooth HID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
